@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[etcd-分布式键值存储系统]()
+[etcd-分布式键值存储系统](https://marketplace.huaweicloud.com/hidden/contents/d82f9a7b-cf43-40fb-97f7-229e5f3c3675#productid=OFFI1144193041643171840)
 
 # 商品说明
 

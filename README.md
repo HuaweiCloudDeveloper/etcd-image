@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[etcd-分布式键值存储系统]()
+- 镜像商品：[etcd-分布式键值存储系统](https://marketplace.huaweicloud.com/hidden/contents/d82f9a7b-cf43-40fb-97f7-229e5f3c3675#productid=OFFI1144193041643171840)
 - 镜像规格：etcd3.6.0-arm-v1.0
 - 预置环境：etcd3.6.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
