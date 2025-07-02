@@ -26,7 +26,7 @@
 7. High Performance and Low Latency: The optimized storage engine (BoltDB) supports tens of thousands of writes per second, with read and write latency in milliseconds. Through batch submission, pipelining, and asynchronous mechanisms, it enhances throughput, suitable as the core metadata storage for systems like Kubernetes.
 8. Security and Access Control: Supports TLS encrypted communication, client certificate authentication.
 
-This project offers pre-configured [**`etcd-Distributed Key-Value Storage System`**]()，images with etcd and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**`etcd-Distributed Key-Value Storage System`**](https://marketplace.huaweicloud.com/intl/hidden/contents/c21740ee-61b0-43d1-8ff4-0936547c1137)，images with etcd and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 **Architecture Design:**
 
@@ -44,7 +44,7 @@ This project offers pre-configured [**`etcd-Distributed Key-Value Storage System
 
 | Image Version          | Description | Notes |
 |------------------------| --- | --- |
-| [etcd3.6.0-arm-v1.0]() | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
+| [etcd3.6.0-arm-v1.0](https://github.com/HuaweiCloudDeveloper/etcd-image/tree/etcd3.6.0-arm-v1.0?tab=readme-ov-file) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/etcd-image/issues)

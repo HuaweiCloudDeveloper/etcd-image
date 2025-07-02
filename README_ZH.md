@@ -29,7 +29,7 @@
 10. 与 Kubernetes 深度集成：作为 Kubernetes 的默认元数据存储，持久化存储 Pod、Service、ConfigMap 等资源的状态信息，是 K8s 控制平面的核心组件，保障集群高可用和一致性。
 11. 跨平台与轻量级：单节点可运行，容器化部署便捷（官方提供 Docker 镜像），资源占用低（基础场景内存约 100MB），支持 Linux/Windows/macOS 等多平台。
 
-本项目提供的开源镜像商品 [**`etcd-分布式键值存储系统`**]()，已预先安装 etcd 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`etcd-分布式键值存储系统`**](https://marketplace.huaweicloud.com/hidden/contents/d82f9a7b-cf43-40fb-97f7-229e5f3c3675#productid=OFFI1144193041643171840)，已预先安装 etcd 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 **架构设计：**
 
@@ -47,7 +47,7 @@
 
 | 镜像规格                   | 特性说明 | 备注 |
 |------------------------| --- | --- |
-| [etcd3.6.0-arm-v1.0]() | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [etcd3.6.0-arm-v1.0](https://github.com/HuaweiCloudDeveloper/etcd-image/tree/etcd3.6.0-arm-v1.0?tab=readme-ov-file) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/etcd-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
